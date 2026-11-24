@@ -12,3 +12,23 @@
 | Favourite animal | Dog 🐶 |
 | Favourite sport | Football ⚽ |
 | Favourite team | Liverpool FC 🔴⚽ |
+
+## Practising with backticks
+
+I am learning how to use 'code' in GitHub.
+
+You can use backticks to make words such as 'Python', 'HTML' and 'Git' stand out as code.
+
+## My first code block
+
+Here is a little bit of Python about me:
+
+```python
+name = "Simran"
+hobby = "Reading"
+favourite_team = "Liverpool FC"
+
+print("Hello, my name is " + name)
+print("My hobby is " + hobby)
+print("I support " + favourite_team)
+```
