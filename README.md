@@ -4,6 +4,9 @@
 ![All about me GIF](9f36c50469e9bbbcdf3afcfe328497de.gif)
 ### A few things about me 
 
+The functional requirements are summarised in Table 1.
+
+Table 1. Function requirements.
 | Favourite things | My answer |
 | --- | --- |
 | Food | Pizza 🍕|
