@@ -28,7 +28,7 @@ name = "Simran"
 hobby = "Reading"
 favourite_team = "Liverpool FC"
 
-print("Hello, my name is " + name)
-print("My hobby is " + hobby)
-print("I support " + favourite_team)
+print("Hello, my name is" + name)
+print("My hobby is" + hobby)
+print("I support" + favourite_team)
 ```
