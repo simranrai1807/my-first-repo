@@ -15,9 +15,9 @@
 
 ## Practising with backticks
 
-I am learning how to use 'code' in GitHub.
+I am learning how to use `code` in GitHub.
 
-You can use backticks to make words such as 'Python', 'HTML' and 'Git' stand out as code.
+You can use backticks to make words such as `Python`, `HTML` and `Git` stand out as code.
 
 ## My first code block
 
